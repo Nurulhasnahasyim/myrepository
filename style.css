@@ -1,0 +1,40 @@
+header{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+}
+body{
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+}
+#profile-container{
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 6px;
+    margin: 80px auto;
+}
+#profile-image{
+    width: 100%;
+    height: auto;
+}
+
+#profile-name{
+    text-align: center;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color : white;
+}
